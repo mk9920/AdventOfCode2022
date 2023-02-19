@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ed3dc1f-cf68-40c7-b1b3-c12824d34543" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../AOC_Day7/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AOC_Day7/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
